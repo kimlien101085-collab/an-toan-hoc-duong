@@ -1,0 +1,7 @@
+{
+  "name": "An Toàn Học Đường",
+  "description": "Nền tảng giáo dục an toàn học đường, phòng chống bạo lực, trợ lý AI tư vấn và tiếp nhận báo cáo sự cố khẩn cấp dành cho học sinh, giáo viên và nhà trường.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
