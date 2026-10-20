@@ -55,12 +55,12 @@ export const ReportView: React.FC<ReportViewProps> = ({
         (position) => {
           const lat = position.coords.latitude.toFixed(4);
           const lng = position.coords.longitude.toFixed(4);
-          setLocation(`📍 Tọa độ GPS (${lat}, ${lng}) - Trường THCS Trần Quý Cáp`);
+          setLocation(`📍 Tọa độ GPS (${lat}, ${lng}) - Trường THCS Lê Quý Đôn`);
           onShowToast('Đã xác định vị trí GPS thành công!');
         },
         (error) => {
           console.warn('GPS error:', error);
-          setLocation('Khuôn viên Trường THCS Trần Quý Cáp (Vị trí tự chọn)');
+          setLocation('Khuôn viên Trường THCS Lê Quý Đôn (Vị trí tự chọn)');
           onShowToast('Không thể lấy GPS tự động. Vui lòng nhập chi tiết địa điểm.');
         },
         { enableHighAccuracy: true, timeout: 5000 }
@@ -218,7 +218,7 @@ export const ReportView: React.FC<ReportViewProps> = ({
             GỬI BÁO CÁO THÀNH CÔNG!
           </h2>
           <p className="text-xs sm:text-sm text-slate-600 max-w-md mx-auto leading-relaxed">
-            Hệ thống an toàn của Trường THCS Trần Quý Cáp đã tiếp nhận thông tin của em. Ban Giám Hiệu và Thầy Cô phụ trách sẽ tiến hành xác minh và can thiệp kịp thời để bảo vệ em.
+            Hệ thống an toàn của Trường THCS Lê Quý Đôn đã tiếp nhận thông tin của em. Ban Giám Hiệu và Thầy Cô phụ trách sẽ tiến hành xác minh và can thiệp kịp thời để bảo vệ em.
           </p>
         </div>
 
@@ -258,7 +258,7 @@ export const ReportView: React.FC<ReportViewProps> = ({
             <span className="text-rose-600">🚨</span> KÊNH BÁO CÁO SỰ CỐ / NGUY CƠ BẠO LỰC
           </h2>
           <p className="text-xs text-slate-500 font-medium leading-relaxed">
-            Thông tin được chuyển trực tiếp tới Ban Giám Hiệu trường THCS Trần Quý Cáp. Cam kết bảo mật an toàn 100% cho người gửi.
+            Thông tin được chuyển trực tiếp tới Ban Giám Hiệu trường THCS Lê Quý Đôn. Cam kết bảo mật an toàn 100% cho người gửi.
           </p>
         </div>
 
