@@ -318,7 +318,7 @@ export const LessonsView: React.FC<LessonsViewProps> = ({
             <span>📚</span> Học Liệu An Toàn Học Đường
           </h2>
           <p className="text-xs sm:text-sm text-slate-500 mt-1 font-medium">
-            Trang bị kiến thức & kỹ năng để tự bảo vệ bản thân, phòng chống bạo lực và xây dựng tình bạn đẹp tại Trường THCS Trần Quý Cáp.
+            Trang bị kiến thức & kỹ năng để tự bảo vệ bản thân, phòng chống bạo lực và xây dựng tình bạn đẹp tại Trường THCS Lê Quý Đôn.
           </p>
         </div>
 
@@ -618,7 +618,7 @@ export const LessonsView: React.FC<LessonsViewProps> = ({
                     <h4>2. NỘI DUNG BÀI HỌC CHI TIẾT</h4>
                   </div>
                   <span className="text-xs font-bold text-slate-500 bg-white px-3 py-1 rounded-xl border border-slate-200">
-                    Trường THCS Trần Quý Cáp
+                    Trường THCS Lê Quý Đôn
                   </span>
                 </div>
 
@@ -1163,7 +1163,7 @@ export const LessonsView: React.FC<LessonsViewProps> = ({
                   {activeLesson.message}
                 </div>
                 <p className="text-xs font-bold text-slate-500">
-                  Trường THCS Trần Quý Cáp – Tôn trọng • Yêu thương • Lan tỏa văn minh
+                  Trường THCS Lê Quý Đôn – Tôn trọng • Yêu thương • Lan tỏa văn minh
                 </p>
               </div>
             )}
