@@ -39,7 +39,7 @@ export const ShareModal: React.FC<ShareModalProps> = ({
     currentUrl
   )}&margin=12`;
 
-  const sampleZaloMessage = `📢 THÔNG BÁO VỀ ỨNG DỤNG AN TOÀN HỌC ĐƯỜNG - TRƯỜNG THCS TRẦN QUÝ CÁP
+  const sampleZaloMessage = `📢 THÔNG BÁO VỀ ỨNG DỤNG AN TOÀN HỌC ĐƯỜNG - TRƯỜNG THCS LÊ QUÝ ĐÔN
 Kính gửi Quý Thầy Cô, Quý Phụ huynh và các em Học sinh,
 Nhà trường xin trân trọng giới thiệu Ứng dụng "AN TOÀN HỌC ĐƯỜNG":
 👉 Đường link truy cập: ${currentUrl}
@@ -88,7 +88,7 @@ Các em học sinh hãy lưu link hoặc thêm ra màn hình chính điện tho�
                 Chia Sẻ Ứng Dụng Cho Học Sinh & Phụ Huynh
               </h3>
               <p className="text-xs text-slate-500 font-medium">
-                Trường THCS Trần Quý Cáp • An Toàn Học Đường
+                Trường THCS Lê Quý Đôn • An Toàn Học Đường
               </p>
             </div>
           </div>
