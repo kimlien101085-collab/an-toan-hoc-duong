@@ -784,7 +784,7 @@ export const INITIAL_LESSONS: Lesson[] = [
         {
           id: 'q11_1',
           type: 'single_choice',
-          question: 'Khi gửi Báo Cáo Sự Cố Ẩn Danh trên ứng dụng trường THCS Trần Quý Cáp, thông tin của em được xử lý ra sao?',
+          question: 'Khi gửi Báo Cáo Sự Cố Ẩn Danh trên ứng dụng trường THCS Lê Quý Đôn, thông tin của em được xử lý ra sao?',
           options: [
             'A. Bị công khai tên tuổi cho toàn trường.',
             'B. Được bảo mật tuyệt đối, thông tin mã hóa chỉ chuyển đến Ban Giám Hiệu xử lý.',
@@ -846,7 +846,7 @@ export const INITIAL_LESSONS: Lesson[] = [
       'Lan tỏa những lời nói hay, cử chỉ đẹp, chủ động kết nối và hỗ trợ các bạn còn rụt rè trong lớp.'
     ],
     game: {
-      question: 'Mỗi học sinh chúng ta có thể làm gì để trường THCS Trần Quý Cáp trở nên an toàn và hạnh phúc hơn?',
+      question: 'Mỗi học sinh chúng ta có thể làm gì để trường THCS Lê Quý Đôn trở nên an toàn và hạnh phúc hơn?',
       options: [
         'A. Thắt chặt tình bạn, tôn trọng sự khác biệt, yêu thương và giúp đỡ bạn bè cùng tiến bộ.',
         'B. Chỉ chơi với những bạn học giỏi, xa lánh những bạn có hoàn cảnh khó khăn.',
@@ -858,7 +858,7 @@ export const INITIAL_LESSONS: Lesson[] = [
         {
           id: 'q12_1',
           type: 'single_choice',
-          question: 'Hành động nào của mỗi học sinh góp phần trực tiếp xây dựng Trường THCS Trần Quý Cáp hạnh phúc?',
+          question: 'Hành động nào của mỗi học sinh góp phần trực tiếp xây dựng Trường THCS Lê Quý Đôn hạnh phúc?',
           options: [
             'A. Tôn trọng sự khác biệt, giúp đỡ bạn bè và lan tỏa năng lượng tích cực.',
             'B. Lập hội nhóm riêng để gây áp lực với các bạn rụt rè.',
@@ -879,7 +879,7 @@ export const INITIAL_LESSONS: Lesson[] = [
         {
           id: 'q12_3',
           type: 'matching',
-          question: 'Ghép thông điệp 4 Tốt của học sinh trường Trần Quý Cáp:',
+          question: 'Ghép thông điệp 4 Tốt của học sinh trường Lê Quý Đôn:',
           explanation: 'Xuất sắc! Hãy ghi nhớ và thực hiện 4 Tốt mỗi ngày!',
           pairs: [
             { id: 'p12_1', left: 'Lời nói tốt', right: 'Dùng từ ngữ hòa nhã, lịch sự, tôn trọng bạn bè' },
@@ -891,7 +891,7 @@ export const INITIAL_LESSONS: Lesson[] = [
           id: 'q12_4',
           type: 'fill_blank',
           question: 'Điền từ còn thiếu vào khẩu hiệu hành động:',
-          sentenceBefore: 'Trường THCS Trần Quý Cáp: Nói KHÔNG với bạo lực - Cùng nhau xây dựng',
+          sentenceBefore: 'Trường THCS Lê Quý Đôn: Nói KHÔNG với bạo lực - Cùng nhau xây dựng',
           sentenceAfter: 'và hạnh phúc!',
           correctWord: 'trường học an toàn',
           wordBank: ['trường học an toàn', 'thành tích cao', 'sân chơi lớn', 'câu lạc bộ'],
