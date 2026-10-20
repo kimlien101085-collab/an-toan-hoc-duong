@@ -7,7 +7,7 @@ export const Footer: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-2.5 text-[11px] font-medium">
         <p className="text-center sm:text-left leading-tight">
           Bản quyền thuộc về:{' '}
-          <strong className="text-amber-300 font-bold">Cô giáo: Võ Thị Kim Liên</strong> — Giáo viên trường THCS Trần Quý Cáp, xã Thăng Bình, thành phố Đà Nẵng.
+          <strong className="text-amber-300 font-bold">Cô giáo: Võ Thị Kim Liên</strong> — Giáo viên trường THCS Lê Quý Đôn, xã Thăng Bình, thành phố Đà Nẵng.
         </p>
 
         <div className="flex items-center gap-2 shrink-0">
