@@ -74,7 +74,7 @@ export default function App() {
             id: 'ev_1',
             type: 'image',
             name: 'Hien_truong_nha_xe.png',
-            url: 'data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="600" height="350" viewBox="0 0 600 350"><rect width="600" height="350" fill="%23f1f5f9"/><rect x="20" y="20" width="560" height="310" rx="16" fill="%23e2e8f0"/><text x="300" y="170" font-family="sans-serif" font-weight="bold" font-size="22" fill="%23334155" text-anchor="middle">MINH CHỨNG HIỆN TRƯỜNG NHÀ XE</text><text x="300" y="205" font-family="sans-serif" font-size="14" fill="%2364748b" text-anchor="middle">Trường THCS Trần Quý Cáp</text></svg>',
+            url: 'data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="600" height="350" viewBox="0 0 600 350"><rect width="600" height="350" fill="%23f1f5f9"/><rect x="20" y="20" width="560" height="310" rx="16" fill="%23e2e8f0"/><text x="300" y="170" font-family="sans-serif" font-weight="bold" font-size="22" fill="%23334155" text-anchor="middle">MINH CHỨNG HIỆN TRƯỜNG NHÀ XE</text><text x="300" y="205" font-family="sans-serif" font-size="14" fill="%2364748b" text-anchor="middle">Trường THCS Lê Quý Đôn</text></svg>',
             size: '0.4 MB',
           },
         ],
