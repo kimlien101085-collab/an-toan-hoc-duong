@@ -62,7 +62,7 @@ export const AdminView: React.FC<AdminViewProps> = ({
             KHU VỰC QUẢN TRỊ BẢO MẬT
           </h2>
           <p className="text-xs text-slate-500 max-w-sm mx-auto leading-relaxed">
-            Hệ thống tiếp nhận báo cáo sự cố dành riêng cho Ban Giám Hiệu và Thầy Cô phụ trách trường THCS Trần Quý Cáp.
+            Hệ thống tiếp nhận báo cáo sự cố dành riêng cho Ban Giám Hiệu và Thầy Cô phụ trách trường THCS Lê Quý Đôn.
           </p>
         </div>
 
